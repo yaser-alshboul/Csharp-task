@@ -1,0 +1,14 @@
+C:\Users\Coding School\source\repos\yaser14\yaser14\bin\Debug\net8.0\yaser14.exe
+C:\Users\Coding School\source\repos\yaser14\yaser14\bin\Debug\net8.0\yaser14.deps.json
+C:\Users\Coding School\source\repos\yaser14\yaser14\bin\Debug\net8.0\yaser14.runtimeconfig.json
+C:\Users\Coding School\source\repos\yaser14\yaser14\bin\Debug\net8.0\yaser14.dll
+C:\Users\Coding School\source\repos\yaser14\yaser14\bin\Debug\net8.0\yaser14.pdb
+C:\Users\Coding School\source\repos\yaser14\yaser14\obj\Debug\net8.0\yaser14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coding School\source\repos\yaser14\yaser14\obj\Debug\net8.0\yaser14.AssemblyInfoInputs.cache
+C:\Users\Coding School\source\repos\yaser14\yaser14\obj\Debug\net8.0\yaser14.AssemblyInfo.cs
+C:\Users\Coding School\source\repos\yaser14\yaser14\obj\Debug\net8.0\yaser14.csproj.CoreCompileInputs.cache
+C:\Users\Coding School\source\repos\yaser14\yaser14\obj\Debug\net8.0\yaser14.dll
+C:\Users\Coding School\source\repos\yaser14\yaser14\obj\Debug\net8.0\refint\yaser14.dll
+C:\Users\Coding School\source\repos\yaser14\yaser14\obj\Debug\net8.0\yaser14.pdb
+C:\Users\Coding School\source\repos\yaser14\yaser14\obj\Debug\net8.0\yaser14.genruntimeconfig.cache
+C:\Users\Coding School\source\repos\yaser14\yaser14\obj\Debug\net8.0\ref\yaser14.dll
